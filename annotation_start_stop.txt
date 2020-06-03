@@ -1,0 +1,10 @@
+Starvation_exp_11_02_2020 behavioural annotation.
+Two blocks: 30 min + 30 min
+		
+Block 1 start		2020-02-11T11:53:34.165655Z
+Block 1 end		2020-02-11T12:23:52.175374Z
+
+
+Block 2 start           2020-02-11T12:23:32.300308Z
+Block 2 end             2020-02-11T12:53:49.935341Z
+
