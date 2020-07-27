@@ -1,0 +1,22 @@
+behavioural codes for annotation,,,
+category,behaviour,code,
+Encounter Behaviour,Grooming adults,G,
+,Trophallaxis,T,"several seconds long contact, very close coords as heads are in contact. Angle between ants body axis can vary , approx 90-270 degrees"
+,Antennal contacts,AC,two types: very short contacts (even less than a sec) to short-medium contacts. Similar angles to trophallaxis but with higher distance between coords
+,Cross Rest (90° angle to another ant),CR,categorised as encounter to distinguish it from GA
+,Front Rest (180° angle facing another ant),FR,categorised as encounter to distinguish it from AC
+,Trophallaxis Queen,TQ,often unidentified as ant acquires vertical position to reach the queen's mouth
+,Grooming Queen (different body shape),GQ,
+Non-encounter Behaviour,Tending brood (feeding / grooming),TB,
+,Self-grooming,SG,
+,Rest,R,
+,Walk,W,
+,Carrying brood,CB,
+,Carrying adults,CA,
+,Feeding,F,
+,Guarding entrance,GE,
+,Drinking,D,
+,,,
+,,,
+,,,
+,,,
